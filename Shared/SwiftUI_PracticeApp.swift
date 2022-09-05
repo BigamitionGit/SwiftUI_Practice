@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUI_PracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            InfiniteCarousel(cards: [Card( { Color.red }), Card( { Color.blue }), Card( { Color.green }), Card( { Color.yellow }), Card( { Color.gray })])
+            PopOverView()
         }
     }
 }

@@ -17,6 +17,24 @@
 		3D0071DE2837ABF900BFEC7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0071B42837ABF700BFEC7F /* ContentView.swift */; };
 		3D0071DF2837ABF900BFEC7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D0071B52837ABF800BFEC7F /* Assets.xcassets */; };
 		3D0071E02837ABF900BFEC7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D0071B52837ABF800BFEC7F /* Assets.xcassets */; };
+		3D145D8E283BA2B800EFEF28 /* BannerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D145D8D283BA2B800EFEF28 /* BannerViewModel.swift */; };
+		3D145D90283BAA4C00EFEF28 /* BannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D145D8F283BAA4C00EFEF28 /* BannerView.swift */; };
+		3DD71503285C989300C69641 /* PopOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD71502285C989300C69641 /* PopOverView.swift */; };
+		3DE2EDEF283CE971006C8909 /* AutoScrollStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE2EDEE283CE971006C8909 /* AutoScrollStatus.swift */; };
+		3DE835CE2838A8CC00C6169C /* ACarouselAutoScroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835CD2838A8CC00C6169C /* ACarouselAutoScroll.swift */; };
+		3DE835CF2838A8CC00C6169C /* ACarouselAutoScroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835CD2838A8CC00C6169C /* ACarouselAutoScroll.swift */; };
+		3DE835D12838A90E00C6169C /* ACaroucel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D02838A90E00C6169C /* ACaroucel.swift */; };
+		3DE835D22838A90E00C6169C /* ACaroucel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D02838A90E00C6169C /* ACaroucel.swift */; };
+		3DE835D42838A92C00C6169C /* ACarouselViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D32838A92B00C6169C /* ACarouselViewModel.swift */; };
+		3DE835D52838A92C00C6169C /* ACarouselViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D32838A92B00C6169C /* ACarouselViewModel.swift */; };
+		3DE835D72838AA5A00C6169C /* AppLifeCycleModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D62838AA5A00C6169C /* AppLifeCycleModifier.swift */; };
+		3DE835D82838AA5A00C6169C /* AppLifeCycleModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D62838AA5A00C6169C /* AppLifeCycleModifier.swift */; };
+		3DE835DA2838AA9700C6169C /* View+ReceiveTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D92838AA9700C6169C /* View+ReceiveTimer.swift */; };
+		3DE835DB2838AA9700C6169C /* View+ReceiveTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835D92838AA9700C6169C /* View+ReceiveTimer.swift */; };
+		3DE835DD2838ADE100C6169C /* LoopyCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835DC2838ADE100C6169C /* LoopyCarousel.swift */; };
+		3DE835DE2838ADE100C6169C /* LoopyCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835DC2838ADE100C6169C /* LoopyCarousel.swift */; };
+		3DE835E02838B41D00C6169C /* CardCaroucel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835DF2838B41D00C6169C /* CardCaroucel.swift */; };
+		3DE835E12838B41D00C6169C /* CardCaroucel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE835DF2838B41D00C6169C /* CardCaroucel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +67,17 @@
 		3D0071D32837ABF900BFEC7F /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D0071D72837ABF900BFEC7F /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		3D0071D92837ABF900BFEC7F /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		3D145D8D283BA2B800EFEF28 /* BannerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerViewModel.swift; sourceTree = "<group>"; };
+		3D145D8F283BAA4C00EFEF28 /* BannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerView.swift; sourceTree = "<group>"; };
+		3DD71502285C989300C69641 /* PopOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverView.swift; sourceTree = "<group>"; };
+		3DE2EDEE283CE971006C8909 /* AutoScrollStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoScrollStatus.swift; sourceTree = "<group>"; };
+		3DE835CD2838A8CC00C6169C /* ACarouselAutoScroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACarouselAutoScroll.swift; sourceTree = "<group>"; };
+		3DE835D02838A90E00C6169C /* ACaroucel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACaroucel.swift; sourceTree = "<group>"; };
+		3DE835D32838A92B00C6169C /* ACarouselViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACarouselViewModel.swift; sourceTree = "<group>"; };
+		3DE835D62838AA5A00C6169C /* AppLifeCycleModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLifeCycleModifier.swift; sourceTree = "<group>"; };
+		3DE835D92838AA9700C6169C /* View+ReceiveTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ReceiveTimer.swift"; sourceTree = "<group>"; };
+		3DE835DC2838ADE100C6169C /* LoopyCarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoopyCarousel.swift; sourceTree = "<group>"; };
+		3DE835DF2838B41D00C6169C /* CardCaroucel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCaroucel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +126,17 @@
 		3D0071B22837ABF600BFEC7F /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				3D145D8C283BA28E00EFEF28 /* Production */,
 				3D0071B32837ABF700BFEC7F /* SwiftUI_PracticeApp.swift */,
 				3D0071B42837ABF700BFEC7F /* ContentView.swift */,
 				3D0071B52837ABF800BFEC7F /* Assets.xcassets */,
+				3DE835CD2838A8CC00C6169C /* ACarouselAutoScroll.swift */,
+				3DE835D02838A90E00C6169C /* ACaroucel.swift */,
+				3DE835D32838A92B00C6169C /* ACarouselViewModel.swift */,
+				3DE835D62838AA5A00C6169C /* AppLifeCycleModifier.swift */,
+				3DE835D92838AA9700C6169C /* View+ReceiveTimer.swift */,
+				3DE835DC2838ADE100C6169C /* LoopyCarousel.swift */,
+				3DE835DF2838B41D00C6169C /* CardCaroucel.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -139,6 +176,17 @@
 				3D0071D92837ABF900BFEC7F /* Tests_macOSLaunchTests.swift */,
 			);
 			path = "Tests macOS";
+			sourceTree = "<group>";
+		};
+		3D145D8C283BA28E00EFEF28 /* Production */ = {
+			isa = PBXGroup;
+			children = (
+				3D145D8D283BA2B800EFEF28 /* BannerViewModel.swift */,
+				3D145D8F283BAA4C00EFEF28 /* BannerView.swift */,
+				3DE2EDEE283CE971006C8909 /* AutoScrollStatus.swift */,
+				3DD71502285C989300C69641 /* PopOverView.swift */,
+			);
+			path = Production;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,8 +347,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DE835CE2838A8CC00C6169C /* ACarouselAutoScroll.swift in Sources */,
+				3DE835D72838AA5A00C6169C /* AppLifeCycleModifier.swift in Sources */,
+				3D145D8E283BA2B800EFEF28 /* BannerViewModel.swift in Sources */,
+				3DE835DA2838AA9700C6169C /* View+ReceiveTimer.swift in Sources */,
+				3DE835D12838A90E00C6169C /* ACaroucel.swift in Sources */,
+				3DE2EDEF283CE971006C8909 /* AutoScrollStatus.swift in Sources */,
 				3D0071DD2837ABF900BFEC7F /* ContentView.swift in Sources */,
 				3D0071DB2837ABF900BFEC7F /* SwiftUI_PracticeApp.swift in Sources */,
+				3DD71503285C989300C69641 /* PopOverView.swift in Sources */,
+				3DE835D42838A92C00C6169C /* ACarouselViewModel.swift in Sources */,
+				3D145D90283BAA4C00EFEF28 /* BannerView.swift in Sources */,
+				3DE835DD2838ADE100C6169C /* LoopyCarousel.swift in Sources */,
+				3DE835E02838B41D00C6169C /* CardCaroucel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,8 +367,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DE835CF2838A8CC00C6169C /* ACarouselAutoScroll.swift in Sources */,
+				3DE835D82838AA5A00C6169C /* AppLifeCycleModifier.swift in Sources */,
+				3DE835DB2838AA9700C6169C /* View+ReceiveTimer.swift in Sources */,
+				3DE835D22838A90E00C6169C /* ACaroucel.swift in Sources */,
 				3D0071DE2837ABF900BFEC7F /* ContentView.swift in Sources */,
 				3D0071DC2837ABF900BFEC7F /* SwiftUI_PracticeApp.swift in Sources */,
+				3DE835D52838A92C00C6169C /* ACarouselViewModel.swift in Sources */,
+				3DE835DE2838ADE100C6169C /* LoopyCarousel.swift in Sources */,
+				3DE835E12838B41D00C6169C /* CardCaroucel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -465,6 +531,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QPU96G43H4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -494,6 +561,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QPU96G43H4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
